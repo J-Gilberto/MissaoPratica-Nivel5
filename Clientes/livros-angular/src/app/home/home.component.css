@@ -1,0 +1,23 @@
+.desc{
+  text-align: center;
+  font-size: 35px;
+  color: rgb(7, 7, 7);
+  display: flex;
+  justify-content: center;
+  padding-top: 23px;
+  padding-bottom: 40px;
+
+
+}
+
+.logo{
+  text-align: center;
+  font-size: 35px;
+  color: rgb(7, 7, 7);
+  display: flex;
+  justify-content: center;
+
+  padding-top: 10px;
+
+
+}
